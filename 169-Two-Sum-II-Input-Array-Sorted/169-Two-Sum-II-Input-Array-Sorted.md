@@ -1,4 +1,4 @@
-## Two Sum II - Input Array Sorted
+## [Two Sum II - Input Array Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 
 Given an array of integers that is already sorted, return indices of the two numbers such that they add up to a specific target.
 

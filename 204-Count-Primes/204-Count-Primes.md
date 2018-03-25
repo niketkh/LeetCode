@@ -1,4 +1,4 @@
-## 204. Count Primes
+## [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
 
 Count the number of prime numbers less than a non-negative number, n
 
